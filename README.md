@@ -35,6 +35,3 @@ Python | C++ | C | Django | React | POSTGRESQL | Django-Rest Framework |
 
 [gmail]: https://gmail.com
 [linkedin]: https://www.linkedin.com/in/harshit-jain-809765166/
-
-# harshit
-[![harshit's github stats](https://github-readme-stats.vercel.app/api?username=harshit-labs)](https://github.com/anuraghazra/github-readme-stats)
