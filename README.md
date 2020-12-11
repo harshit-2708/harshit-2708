@@ -24,12 +24,12 @@ Python | C++ | C | Django | React | POSTGRESQL | Django-Rest Framework |
  <details>
 <summary>📊 Github Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ayushi7rawat&show_icons=true&theme=gotham" alt="Ayushi Rawat | Stats" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=harshit-labs&show_icons=true&theme=gotham" alt="Harshit Jain | Stats" />
 
 </details>
 
 
- ![Visitor Count](https://profile-counter.glitch.me/{ayushi7rawat}/count.svg)
+ ![Visitor Count](https://profile-counter.glitch.me/{harshit-labs}/count.svg)
  
  
 
