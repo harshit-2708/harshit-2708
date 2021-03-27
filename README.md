@@ -15,7 +15,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="mailto:in.harshuharshit27@gmail.com" target="blank"><img align="center" src ="https://img.icons8.com/nolan/64/email.png" height="40" width="40" /></a>
-<a href="https://codeforces.com/profile/harshit27_" target="blank"><img align="center" src="./codeforces-logo.png" alt="Harshit Jain" height="40" width="40" /></a>
+<a href="https://codeforces.com/profile/harshit27" target="blank"><img align="center" src="./codeforces-logo.png" alt="Harshit Jain" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/harshit-jain-809765166/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" alt="Harshit Jain height="40" width="40" /></a>
 <a href="https://www.codechef.com/users/harshit2708_" target="blank"><img align="center" src="./codechef-logo.jpg" alt="Harshit Jain" height="40" width="40" /></a>
 <a href="https://leetcode.com/Harshit2708/" target="blank"><img align="center" src="./leetcode-log.png" alt="Harshit Jain" height="40" width="40" /></a>
