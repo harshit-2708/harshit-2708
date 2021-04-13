@@ -1,6 +1,6 @@
 <h1 align="center">Hello there and Namaste 🙏 , I'm Harshit Jain</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=harshit-labs" alt="AshutoshTrivedi" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=harshit-labs" alt="Harshit Jain" /> </p>
 <p align ="center">
  - 🌱 I’m currently learning <b>About Federated learning</b></p>
  <p align ="center">- 😄 Pronouns: he/him</p>
