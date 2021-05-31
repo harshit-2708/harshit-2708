@@ -34,7 +34,8 @@
 </a> <a href="#"><img src="https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png" alt="sql" width="40" height="40"/></a>
 <a href="https://www.tensorflow.org/learn"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/1200px-TensorFlowLogo.svg.png" alt="sql" width="40" height="40"/></a>
  </p>
-
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+ <p align="center">&nbsp;<img align="center" src="https://github.com/harshit-labs/github-profile-trophy" alt="Harshit Jain" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-labs&layout=compact" alt="Harshit Jain" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshit-labs&show_icons=true" alt="Harshit Jain" /></p>
