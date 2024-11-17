@@ -7,7 +7,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at   -->
 
-<p align ="center">- 💬 Ask me about <b>Full Stack Development using Django and machine learning</b></p>
+<p align ="center">- 💬 Ask me about <b>Full Stack Development using Spring boot and Angular/b></p>
 
 <!-- <p align ="center">- ⚡ Fun fact <b>Algorithms and Data Structures have more use in dev than it seems</b>
 </p> -->
