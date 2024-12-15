@@ -34,4 +34,5 @@
  </p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-2708&layout=compact" alt="Harshit Jain" /></p>
 
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshit-2708&show_icons=true" alt="Harshit Jain" /></p>
 
