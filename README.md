@@ -1,6 +1,4 @@
 <h1 align="center">Hello there and Namaste 🙏 , I'm Harshit Jain</h1>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=harshit-labs" alt="Harshit Jain" /> </p>
 <p align ="center">
  - 🌱 I’m currently learning <b>About Federated learning</b></p>
  <p align ="center">- 😄 Pronouns: he/him</p>
@@ -36,5 +34,4 @@
  </p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-2708&layout=compact" alt="Harshit Jain" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshit-2708&show_icons=true" alt="Harshit Jain" /></p>
 
